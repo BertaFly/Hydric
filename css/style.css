@@ -158,10 +158,6 @@ a{
 /*MENU FOR MEDIUM DEVISES*/
 
 @media (max-width: 925px){
-	
-	.home{
-		padding-top: 205px;
-	}
 
 	.menu-btn {
         display: inline-block;
@@ -212,7 +208,11 @@ a{
     .menu-items a:last-child{
         border: 2px solid #fff;
     }
-
+	
+	.slogan{
+	  margin: 150px auto 50px;
+	}
+	
 }
 
 /*MENU FOR SMALL DEVISES*/
