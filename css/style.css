@@ -390,16 +390,7 @@ a{
 		margin: 47px auto 0px auto;
     	position: relative;
     	width: 279px;
-    	height: 230px;
 	}
-
-		.arbuz-img{
-			width: 279px;
-			height: 230px;
-			position: absolute;
-			top: 0;
-		}
-
 		.arbuz p{
 			font-family: "MyriadPro";
 			font-size: 22px;
