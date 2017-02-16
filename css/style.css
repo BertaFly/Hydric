@@ -460,6 +460,127 @@ a{
     			left: 0;
 			}
 
+@media screen and (max-width: 641px){
+
+	.arbuz-ingridients{
+		width: 150px;
+	}
+
+		.protein{
+			width: 150px;
+			left: 73%;
+    		top: -28%;
+		}
+	
+				.protein p {
+	    			position: absolute;
+	    			top: 5%;
+	    			right: 0;
+    				font-size: 16px;
+    			}
+		
+		.calories{
+			right: 83%;
+		    width: 135px;
+		}
+
+			.calories p{
+				font-size: 18px;
+				top: -3px;
+    			font-size: 16px;
+			}
+
+		.water{
+			left: 78%;
+    		width: 120px;
+		}
+
+			.water p{
+				font-size: 16px;
+			}
+
+		.fat{
+			right: 48%;
+    		bottom: -9%;
+    		width: 148px;
+    		height: 32px;
+		}
+
+			.fat p{
+				bottom: 74%;
+    			font-size: 16px;
+			}
+
+}
+
+@media screen and (max-width: 385px){
+	
+	.arbuz-ingridients {
+    	margin: 0 auto;
+    }
+
+		.protein{
+			left: 0;
+		    top: 52%;
+		}
+			
+			.protein img{
+				display: none;		
+			}
+
+			.protein p{
+				right: 20%;
+    			top: 44%;
+    			border-bottom: 2px solid #d4fa7a;
+			}
+
+		.calories{
+			right: -4%;
+    		top: 96%;
+		}
+
+			.calories img{
+				display: none;
+			}
+
+			.calories p{
+				right: 20%;
+    			top: 44%;
+    			border-bottom: 2px solid #fd6363;
+			}
+
+		.water{
+			left: 26%;
+    		top: 124%;
+		}
+
+			.water img{
+				display: none;
+			}
+
+			.water p{
+				left: 0;
+    			bottom: 0;
+    			border-bottom: 2px solid #8cdbf2;
+			}
+
+		.fat{
+			left: 31%;
+    		bottom: -74%;
+    		width: 148px;
+    		height: 32px;
+		}
+
+			.fat img{
+				display: none;
+			}
+
+			.fat p{
+				bottom: 0%;
+    			font-size: 16px;
+    			border-bottom: 2px solid #fef45a;
+			}
+}
 /*END ARBUZ IMG WITH STRIPS AND FEATURES*/
 
 /*NUTRITION (PRICE)*/
